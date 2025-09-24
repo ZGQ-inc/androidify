@@ -54,7 +54,7 @@
             In the JSON response, respond with the result 'success' as set to true or false based on results.
             If the image is considered invalid, include the relevant reason as to why it is invalid in the 'error' property. A photo is only valid if:
             - it is an image of a person or an anime character, at least showing their shoulders and head, it can be a full body image
-            - the photo has a clear main person in it, if there are people in the background ignore them
+            - the image has a clear main person or character in it, if there are other people or characters in the background ignore them
             - it cannot contain nudity or explicit content
             - it cannot contain illegal weapons or violent references
             - it cannot contain references to drugs or other illicit substances
