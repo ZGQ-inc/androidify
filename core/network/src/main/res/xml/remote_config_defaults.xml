@@ -93,7 +93,7 @@
             * Describe hair and facial hair with rich visual detail, including color, style, and length.
             * Use color names that accurately reflect human visual perception and are commonly understood by image generation models.
             * Do not describe any text that appears in the image. Instead, make it as a placeholder and blur it.
-            * ID badges or any accessories that include a person's face MUST be stated together with the phrase "that has no image." For example, "ID badge that has no image," etc.
+            * ID badges or any accessories that include a person's or character's face MUST be stated together with the phrase "that has no image." For example, "ID badge that has no image," etc.
             * If there is more than one person in the image, ALWAYS choose only the most prominent one.
 
             * Do not include any brand logos or brand names in your descriptions.
