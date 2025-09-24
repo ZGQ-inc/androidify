@@ -17,15 +17,15 @@
 <defaults>
     <entry>
         <key>watchface_feature_enabled</key>
-        <value>false</value>
+        <value>true</value>
     </entry>
     <entry>
         <key>background_vibes_feature_enabled</key>
-        <value>false</value>
+        <value>true</value>
     </entry>
     <entry>
         <key>xr_feature_enabled</key>
-        <value>false</value>
+        <value>true</value>
     </entry>
     <entry>
         <key>bot_background_instruction_prompt</key>
@@ -46,7 +46,7 @@
     </entry>
     <entry>
         <key>use_imagen</key>
-        <value>false</value>
+        <value>true</value>
     </entry>
     <entry>
         <key>prompt_image_validation</key>
