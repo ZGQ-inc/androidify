@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707891005975",
+    "project_id": "androidify-zgqinc",
+    "storage_bucket": "androidify-zgqinc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707891005975:android:e9f3c7959d62c0a677ea52",
+        "android_client_info": {
+          "package_name": "com.zgqinc.androidify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdfRX5PV0zAEXtVu7pG1D5M92kN0ypZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
